@@ -84,28 +84,14 @@ We will use a combination of **time-series forecasting models** and **machine le
 ### 🧪 4. Model Training and Evaluation
 
 #### **Metrics for Evaluation**
-
 - **RMSE (Root Mean Squared Error):**
   Measures the average magnitude of prediction errors.  
-  Formula:  
-  \[
-  \text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^n (y_i - \hat{y}_i)^2}
-  \]
 
 - **MAE (Mean Absolute Error):**
   Measures the average absolute difference between predicted and actual values.  
-  Formula:  
-  \[
-  \text{MAE} = \frac{1}{n} \sum_{i=1}^n |y_i - \hat{y}_i|
-  \]
 
 - **R² Score (Coefficient of Determination):**
   Indicates how well the model explains the variability in the target variable.  
-  Formula:  
-  \[
-  R^2 = 1 - \frac{\sum (y_i - \hat{y}_i)^2}{\sum (y_i - \bar{y})^2}
-  \]
-
 ---
 
 ### 📝 5. Model Implementation Steps
