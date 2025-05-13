@@ -1,3 +1,8 @@
+[![GitHub repo](https://img.shields.io/badge/Health_Insurance-Cost_Predictor-blue?logo=github)](https://github.com/Mullaivendan9894/Machine-Learning/tree/master/health_insurance_cost_predictor)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?logo=streamlit&logoColor=white)](https://premium-health-insurance-cost-predictor.streamlit.app/https://premium-health-insurance-cost-predictor.streamlit.app/)
+
+
 ## 💼 Health Insurance Cost Predictor
 
 A Machine Learning-powered web application that predicts annual health insurance premium amounts based on user-specific personal and health details. This project employs Linear Regression and XGBoost Regressor models, combined with advanced feature engineering and age-based segmentation, to achieve high prediction accuracy.
