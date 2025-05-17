@@ -50,7 +50,7 @@ A machine learning system that predicts loan default probability and generates C
 - Information Value (> 0.02)
 - Variance Inflation Factor (VIF < 5)
 
-<pre>```python
+<pre>
 ['age', 'residence_type', 'loan_purpose', 'loan_type',
  'loan_tenure_months', 'number_of_open_accounts',
  'credit_utilization_ratio', 'loan_to_income',
