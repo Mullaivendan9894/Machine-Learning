@@ -75,7 +75,7 @@ Top 10 features selected using:
 
 <pre>``` health-insurance-cost-predictor/
 ├── artifacts/                # Saved models and encoders
-├── app.py                    # Streamlit application
+├── main.py                   # Streamlit application
 ├── prediction_helper.py      # Prediction functions
 ├── README.md                 # This file
 ├── requirements.txt          # Dependencies```</pre>
