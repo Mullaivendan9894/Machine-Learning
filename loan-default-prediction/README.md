@@ -45,7 +45,7 @@ A machine learning system that predicts loan default probability and generates C
 ## 🧪 Model Development
 
 ### 🔍 Feature Selection
-Top 10 features selected using:
+ most important features selected using:
 - Weight of Evidence (WOE)
 - Information Value (> 0.02)
 - Variance Inflation Factor (VIF < 5)
