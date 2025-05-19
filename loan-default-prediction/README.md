@@ -73,12 +73,12 @@ A machine learning system that predicts loan default probability and generates C
 
 #### 📦 Project Structure
 
-<pre>``` health-insurance-cost-predictor/
+<pre> health-insurance-cost-predictor/
 ├── artifacts/                # Saved models and encoders
 ├── main.py                   # Streamlit application
 ├── prediction_helper.py      # Prediction functions
 ├── README.md                 # This file
-├── requirements.txt          # Dependencies```</pre>
+├── requirements.txt          # Dependencies </pre>
 
 
 #### ⚙️ Install Dependencies
