@@ -18,7 +18,7 @@ A machine learning system that predicts loan default probability and generates C
 
 ## 📂 Dataset
 
-**37,500 loan applications** with 32 features across 4 categories:
+**50,000 loan applications** with 33 features across 4 categories:
 
 ### 🧑‍💼 Customer Attributes
 - Demographics: `age`, `gender`, `marital_status`
